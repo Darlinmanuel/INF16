@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/args/">
+    <Project Path="INF_LAB.csproj" />
+  </Folder>
+  <Folder Name="/Tests/" />
+  <Project Path="../INF_LABTest/INF_LABTest.csproj" />
+</Solution>
