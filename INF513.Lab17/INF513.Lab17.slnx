@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/args/">
+    <Project Path="INF530_LAB/INF530_LAB.csproj" Id="43dd5026-11ae-48a2-9a0a-021d5119fae8" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="INF530_LAB_Tests/INF530_LAB_Tests.csproj" Id="52da9a76-3719-4040-8a51-abab56052b48" />
+  </Folder>
+</Solution>
